@@ -2,7 +2,10 @@
 
 This project implements a **Brain Tumor Classification** model using a **novel Area Attention Mechanism**. It processes MRI images to classify them as **Healthy** or **Tumor**.
 
-![brain](brain.png)
+<div align="center">
+<img src="brain.png" align="center" />
+</div>
+
 ---
 
 ## 📂 Project Structure
